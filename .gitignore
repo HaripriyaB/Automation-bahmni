@@ -1,3 +1,7 @@
 build
 .idea
 .gradle
+test-output
+*.DS_Store
+ScreenShots
+log
