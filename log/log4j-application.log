@@ -1,0 +1,221 @@
+2020-09-28 17:27:53,964  INFO [main] BaseTestClass:19 - Firefox driver initialised
+2020-09-28 17:27:54,539  INFO [main] BaseTestClass:19 - Firefoxpages instantiated
+2020-09-28 17:27:54,541  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:27:54,542  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:27:54,768  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:27:54,773  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:28:05,136  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:28:10,827 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:28:10,830 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:28:10,832 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:28:10,833 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:28:10,833 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:28:10,992 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:28:10,992 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:28:10,992 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:28:10,993 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:28:10,993 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:29:05,877  INFO [main] BaseTestClass:19 - Firefox driver initialised
+2020-09-28 17:29:06,438  INFO [main] BaseTestClass:19 - Firefoxpages instantiated
+2020-09-28 17:29:06,440  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:29:06,441  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:29:06,731  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:29:06,733  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:29:07,254  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:29:12,880 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:29:12,881 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:29:12,882 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:29:12,883 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:29:12,884 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:29:13,046 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:29:13,047 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:29:13,047 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:29:13,047 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:29:13,048 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:30:04,100  INFO [main] BaseTestClass:19 - Firefox driver initialised
+2020-09-28 17:30:04,690  INFO [main] BaseTestClass:19 - Firefoxpages instantiated
+2020-09-28 17:30:04,692  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:30:04,693  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:30:04,921  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:30:04,923  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:30:05,411  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:30:11,002 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:30:11,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:30:11,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:30:11,004 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:30:11,004 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:30:11,145 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:30:11,145 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:30:11,146 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:30:11,146 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:30:11,146 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:33:01,727  INFO [main] BaseTestClass:19 - Firefox driver initialised
+2020-09-28 17:33:02,322  INFO [main] BaseTestClass:19 - Firefoxpages instantiated
+2020-09-28 17:33:02,324  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:33:02,325  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:33:02,562  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:33:02,565  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:33:03,376  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:33:09,253 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:33:09,254 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:33:09,255 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:33:09,256 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:33:09,256 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:33:09,439 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:33:09,439 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:33:09,440 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:33:09,440 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:33:09,442 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:35:01,599  INFO [main] BaseTestClass:19 - Firefox driver initialised
+2020-09-28 17:35:02,198  INFO [main] BaseTestClass:19 - Firefoxpages instantiated
+2020-09-28 17:35:02,200  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:35:02,202  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:35:02,421  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:35:02,422  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:35:03,179  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:35:08,956 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:35:08,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:35:08,957 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:35:08,958 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:35:08,959 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:35:09,093 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:35:09,093 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:35:09,093 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:35:09,094 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:35:09,094 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:48:54,264  INFO [main] BaseTestClass:19 - Firefox driver initialised
+2020-09-28 17:48:54,856  INFO [main] BaseTestClass:19 - Firefoxpages instantiated
+2020-09-28 17:48:54,858  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:48:54,859  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:48:55,113  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:48:55,119  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:48:56,005  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:49:01,827 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:49:01,828 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:49:01,829 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:49:01,829 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:49:01,830 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:49:01,983 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:49:01,983 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:49:01,984 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:49:01,984 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:49:01,985 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:49:34,081  INFO [main] BaseTestClass:19 - Firefox driver initialised
+2020-09-28 17:49:34,665  INFO [main] BaseTestClass:19 - Firefoxpages instantiated
+2020-09-28 17:49:34,667  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:49:34,669  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:49:34,936  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:49:34,937  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:49:37,586  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:49:43,267 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:49:43,268 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:49:43,269 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:49:43,270 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:49:43,270 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:49:43,419 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:49:43,420 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:49:43,420 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:49:43,420 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:49:43,421 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:50:14,330  INFO [main] BaseTestClass:19 - Safari driver initialised
+2020-09-28 17:50:14,457  INFO [main] BaseTestClass:19 - Safaripages instantiated
+2020-09-28 17:50:14,460  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:50:14,461  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:50:14,549  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:50:14,550  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:50:14,900  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:50:20,159 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:50:20,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:50:20,163 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:50:20,165 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:50:20,165 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:50:20,342 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:50:20,342 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:50:20,343 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:50:20,343 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:50:20,344 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:51:28,205  INFO [main] BaseTestClass:19 - Firefox driver initialised
+2020-09-28 17:51:28,800  INFO [main] BaseTestClass:19 - Firefoxpages instantiated
+2020-09-28 17:51:28,802  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:51:28,803  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:51:29,031  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:51:29,034  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:51:31,723  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:51:37,320 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:51:37,321 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:51:37,322 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:51:37,323 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:51:37,323 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:51:37,463 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:51:37,463 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:51:37,464 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:51:37,464 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:51:37,465 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:52:43,627  INFO [main] BaseTestClass:19 - Firefox driver initialised
+2020-09-28 17:52:44,188  INFO [main] BaseTestClass:19 - Firefoxpages instantiated
+2020-09-28 17:52:44,190  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:52:44,191  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:52:44,415  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:52:44,418  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:52:46,987  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:52:52,681 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:52:52,682 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:52:52,683 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:52:52,684 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:52:52,684 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:52:52,827 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:52:52,827 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:52:52,828 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:52:52,828 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:52:52,829 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:55:04,284  INFO [main] BaseTestClass:19 - Firefox driver initialised
+2020-09-28 17:55:04,873  INFO [main] BaseTestClass:19 - Firefoxpages instantiated
+2020-09-28 17:55:04,877  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:55:04,879  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:55:05,167  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:55:05,171  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:55:07,893  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:55:13,617 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:55:13,618 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:55:13,619 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:55:13,620 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:55:13,620 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:55:13,782 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:55:13,782 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:55:13,782 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:55:13,783 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:55:13,784 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:58:24,174  INFO [main] BaseTestClass:19 - Chrome driver initialised
+2020-09-28 17:58:24,321  INFO [main] BaseTestClass:19 - Chromepages instantiated
+2020-09-28 17:58:24,324  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:58:24,326  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:58:26,499  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:58:26,500  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:58:27,136  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:58:32,383 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:58:32,384 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:58:32,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:58:32,386 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:58:32,386 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:58:32,612 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:58:32,614 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:58:32,614 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:58:32,614 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:58:32,619 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:58:46,403  INFO [main] BaseTestClass:19 - Firefox driver initialised
+2020-09-28 17:58:46,942  INFO [main] BaseTestClass:19 - Firefoxpages instantiated
+2020-09-28 17:58:46,944  INFO [main] BaseTestClass:19 - read config properties
+2020-09-28 17:58:46,945  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:58:47,157  INFO [main] BaseTestClass:19 - Configuring url to driver
+2020-09-28 17:58:47,163  INFO [main] BaseTestClass:19 - URL set to driver
+2020-09-28 17:58:49,801  INFO [main] BaseTestClass:19 - captured Screenshot
+2020-09-28 17:58:55,363 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:58:55,365 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:58:55,365 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:58:55,366 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:58:55,367 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-09-28 17:58:55,581 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2020-09-28 17:58:55,581 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2020-09-28 17:58:55,582 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-09-28 17:58:55,582 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-09-28 17:58:55,583 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/haripriyabaskaran/.gradle/caches/modules-2/files-2.1/com.relevantcodes/extentreports/2.41.2/f3cfee1e734668ac4e3574a9b47ad735476b4b04/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
